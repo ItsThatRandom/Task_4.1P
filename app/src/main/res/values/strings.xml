@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Workout</string>
+    <string name="no_previous">No previous workout.</string>
+    <string name="prompt">Enter your workout type: </string>
+</resources>
